@@ -1,0 +1,82 @@
+<server>
+
+      <id>dsp.test.repository</id>
+
+      <username>userid</username>
+
+      <password>password</password>
+
+    </server>
+
+   
+
+    <server>
+
+      <id>ctl-nexus-development</id>
+
+      <username>userid</username>
+
+      <password>password</password>
+
+    </server>
+
+   
+
+    <server>
+
+      <id>public</id>
+
+      <username>userid</username>
+
+      <password>password</password>
+
+    </server>
+
+   
+
+    <server>
+
+    <id>central</id>
+
+      <username>userid</username>
+
+      <password>password</password>
+
+    </server>
+
+   
+
+    <server>
+
+      <id>ctl-nexus-thirdparty</id>
+
+      <username>userid</username>
+
+      <password>password</password>
+
+    </server>
+
+   
+
+    <server>
+
+      <id>ctl-nexus-mdw</id>
+
+      <username>userid</username>
+
+      <password>password</password>
+
+    </server>
+
+   
+
+                <server>
+
+      <id>ctl-nexus-snapshots</id>
+
+      <username>userid</username>
+
+      <password>password</password>
+
+    </server>
+
